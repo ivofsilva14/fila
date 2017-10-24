@@ -1,0 +1,17 @@
+{
+  "name": "Projeto Fila",
+  "description": "Projeto Fila ",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ivo Francisco da Silva",
+      "email": "ivofsilva14@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+	  "app\\": "src/mvc/"
+    }
+  }
+}
