@@ -12,7 +12,7 @@ $pilha = isset($_SESSION['session_pilha'])?$_SESSION['session_pilha']:'';
         <script type="text/javascript" src="src/mvc/view/js/jquery.min.js"></script>
         <script type="text/javascript" src="src/mvc/view/js/fila.js"></script>
         <link href="src/mvc/view/css/style.css" rel="stylesheet" type="text/css" />
-        <title>Teste Fila</title>
+        <title>Teste Pilha</title>
     </head>
     <body onload="javascript:document.getElementById('txUsuario').focus();">
         <div id="inicial">
